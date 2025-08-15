@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+
+# Vite build output
+dist/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun-debug.log*
+.log
+
+# Editor & system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+.env.*.local
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# OS junk files
+Desktop.ini
+
+# Optional: lockfiles (if you want them gitignored, not always recommended)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
