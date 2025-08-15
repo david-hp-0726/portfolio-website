@@ -4,10 +4,10 @@ export const SITE = {
   role: 'Electrical Engineering Major at Georgia Tech',
   intro:
     'I focus on robot learning and safe motion planning. Recent work spans imitation learning (BC/DAgger/AIRL), ROS+MoveIt pipelines, and stability-aware controllers for manipulation and autonomous driving. I enjoy bridging rigorous math with practical robotics systems.',
-  email: 'mailto:david@example.com',
+  email: 'mailto:xchen3019@gatech.edu',
   links: {
     github: 'https://github.com/david-hp-0726',
-    linkedin: 'https://www.linkedin.com/in/your-profile',
+    linkedin: 'https://www.linkedin.com/in/david-chen-69a226284/',
     cv: '/cv/David_Chen_CV.pdf',
   },
   headshot: '/images/headshot.jpg',
