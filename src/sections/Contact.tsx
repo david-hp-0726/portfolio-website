@@ -12,9 +12,6 @@ export default function Contact() {
           <a href={SITE.email} className="inline-flex items-center justify-center px-4 py-2 rounded-lg bg-brand-600 text-white hover:bg-brand-700">
             Email me
           </a>
-          <a href="#cv" className="inline-flex items-center justify-center px-4 py-2 rounded-lg border border-slate-200 hover:bg-slate-50">
-            View CV
-          </a>
         </div>
       </div>
     </section>
