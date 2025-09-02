@@ -3,7 +3,7 @@ export const SITE = {
   name: 'David Chen',
   role: 'Electrical Engineering Major at Georgia Tech',
   intro:
-    'I am interested in researching robot learning methods, in particular reinforcement learning and imitation learning. My recent projects include implementing AIRL to recover expert rewards, building ROS + MoveIt pipelines for behavioral cloning on a Panda arm, and training agents in MuJoCo for navigation tasks. I enjoy applying rigorous algorithms to building practical robotic systems.',
+    "I am broadly interested in robot learning, particularly reinforcement learning and its applications to robotic manipulators. I also explore imitation learning and related approaches. I am currently working as a Course Assistant for ECE 4560: Intro to Automation and Robotics, helping to build robot infrastructure for the mycobot280 manipulator, including Python and ROS 2 control interfaces for manipulator platforms.",
   email: 'mailto:xchen3019@gatech.edu',
   links: {
     github: 'https://github.com/david-hp-0726',
